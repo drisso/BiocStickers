@@ -2,7 +2,10 @@
 
 This repository contains stickers for some Bioconductor packages. Fork
 this repo and create a pull request if you would like to add a sticker
-for your package too. If you would like to modify existing ones,
+for your package too. Please also add your sticker to the main REAMDE file 
+(ordered alphabetically).
+
+If you would like to modify existing ones,
 please open an issue and discuss changes with the sticker maintainer.
 
 ## Package stickers
