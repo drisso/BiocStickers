@@ -2,7 +2,7 @@
 
 This repository contains stickers for some Bioconductor packages. Fork
 this repo and create a pull request if you would like to add a sticker
-for your package too. Please also add your sticker to the main REAMDE file 
+for your package too. Please also add your sticker to the main REAMDE file
 (ordered alphabetically). Please limite the sticker file size(s) to 500KB.
 
 If you would like to modify existing ones,
@@ -179,7 +179,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="RNAmodR/README.md"><img src="RNAmodR/RNAmodR.png" height="100"></a>
 <a href="Rsamtools/README.md"><img src="Rsamtools/Rsamtools.png" height="100"></a>
 <a href="Rsubread/README.md"><img src="Rsubread/Rsubread.png" height="100"></a>
-<a href="RUV/README.md"><img src="RUV/RUV.png" height="100"></a>
 <a href="RUVcorr/README.md"><img src="RUVcorr/RUVcorr.png" height="100"></a>
 <a href="RUVnormalize/README.md"><img src="RUVnormalize/RUVnormalize.png" height="100"></a>
 <a href="RUVSeq/README.md"><img src="RUVSeq/RUVSeq.png" height="100"></a>
@@ -204,7 +203,6 @@ please open an issue and discuss changes with the sticker maintainer.
 <a href="slingshot/README.md"><img src="slingshot/slingshot.png" height="100"></a>
 <a href="smartid/README.md"><img src="smartid/smartid.svg" height="100"></a>
 <a href="sosta/README.md"><img src="sosta/sosta.svg" height="100"></a>
-<a href="SpaceTrooper/README.md"><img src="SpaceTrooper/spacetrooper.png" height="100"></a>
 <a href="SparseArray/README.md"><img src="SparseArray/SparseArray.png" height="100"></a>
 <a href="SpatialExperiment/README.md"><img src="SpatialExperiment/SpatialExperiment.png" height="100"></a>
 <a href="SpatialExperimentIO/README.md"><img src="SpatialExperimentIO/SpatialExperimentIO.png" height="100"></a>
