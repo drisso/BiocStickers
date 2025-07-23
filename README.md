@@ -248,7 +248,7 @@ please open an issue and discuss changes with the sticker maintainer.
 Stickers for some of the Bioconductor events.
 
 <p align = "left">
-<a href="BioCAsia/README.md"><img src="BioCAsia/BioCAsia.png" height="100"></a>
+<a href="events/BioCAsia/README.md"><img src="events/BioCAsia/BioCAsia.png" height="100"></a>
 <a href="events/BiocAsia2015/README.md"><img src="events/BiocAsia2015/biocasia2015.png" height="100"></a>
 <a href="events/BiocAsia2016/README.md"><img src="events/BiocAsia2016/biocasia2016.png" height="100"></a>
 <a href="events/CSAMA/2017/README.md"><img src="events/CSAMA/2017/CSAMA2017.png" height="100"></a>
