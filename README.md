@@ -341,6 +341,6 @@ commercial purposes, all without asking permission. See more details
 
 # Sticker processing scripts
 
-- [[https://gist.github.com/LiNk-NY/5f9c2b0e665002eba976751c4e1f36c8][Use
-  this on BiocStickers to check whether a package is in
-  Bioconductor]], by Marcel Ramos Pérez.
+- [Use this on BiocStickers to check whether a package is in
+  Bioconductor](https://gist.github.com/LiNk-NY/5f9c2b0e665002eba976751c4e1f36c8),
+  by Marcel Ramos Pérez.
