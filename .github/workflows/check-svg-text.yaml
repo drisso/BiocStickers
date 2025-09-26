@@ -1,7 +1,6 @@
 name: check-svg-text
 
 on:
-  workflow_dispatch:
   pull_request:
     branches:
       - 'devel'
